@@ -1,0 +1,211 @@
+,JobTitle,CompanyName,City,CityGrouping,Salary
+5,Statistician,Etech Hi Inc.,Chicago,Chicago,71000.0
+18,Data Scientist,Workbridge Associates,Chicago,Chicago,95000.0
+22,Machine Learning Data Scientist,All-In Analytics,Chicago,Chicago,132500.0
+25,Mid-Level Data Scientist,Workbridge Associates,Chicago,Chicago,105000.0
+47,Senior Data Scientist,Workbridge Associates,Chicago,Chicago,150000.0
+53,QUANTITATIVE MODEL VALIDATION ANALYST,Seeking Alpha Search International,Chicago,Chicago,155000.0
+56,Sr. Statistician,Etech Hi Inc.,Chicago,Chicago,85000.0
+63,Predictive Modeling Director,Analytic Recruiting,Chicago,Chicago,120000.0
+67,Natural Language Processing Scientist,Workbridge Associates,Chicago,Chicago,145000.0
+92,Data Scientist,Hirewell,Deerfield,Chicago,125000.0
+100,Business Data Analyst,North shore Staffing Group,Chicago,Chicago,95000.0
+111,"Senior Data Scientist (Python, R) in Des Plaines",Workbridge Associates,Des Plaines,Chicago,120000.0
+144,Lead Data Scientist,Workbridge Associates,Chicago,Chicago,140000.0
+157,Principal Statistical Analyst / Data Scientist,CREhire.com,Bloomingdale,Chicago,138300.0
+198,"Manager of Data Science (Python, R)",Workbridge Associates,Chicago,Chicago,185000.0
+227,(Sr.) Statistical Consultant,Smith Hanley Associates,Chicago,Chicago,175000.0
+232,Data Scientist,Smith Hanley Associates,Chicago,Chicago,90000.0
+252,"Quantitative Researcher, Machine Learning & Bayesian inferen...",NJF Search,Chicago,Chicago,200000.0
+259,High Frequency Strategy Engineer,NJF Search,Chicago,Chicago,170000.0
+262,Lead Data Scientist,Analytic Recruiting,Chicago,Chicago,140000.0
+279,Senior Data Scientist (Deep Learning or NLP),Workbridge Associates,Chicago,Chicago,130000.0
+295,Product Development Specialist - Food R&D,3coast,Chicago,Chicago,90000.0
+325,Data Scientist,Jobspring Partners,Chicago,Chicago,110000.0
+335,Statistical Analyst,Smith Hanley Associates,Chicago,Chicago,55000.0
+355,Principal Data Scientist,Workbridge Associates,Chicago,Chicago,165000.0
+396,Senior SAS Analytics Platform Lead,Workbridge Associates,Chicago,Chicago,135000.0
+397,Data Scientist -Fitness/Wellness Firm,Hirewell,Chicago,Chicago,120000.0
+407,Food Scientist MS or PhD - Meat Products,Food Management Search,Chicago,Chicago,85000.0
+454,Data Scientist,kWh Analytics,San Francisco,San Francisco,120000.0
+456,Data Scientist / Bioinformatics (co-founder),Medlytic,San Francisco,San Francisco,110000.0
+477,Data Scientist,MarkMonitor,San Francisco Bay Area,San Francisco,180000.0
+485,Senior Data Scientist,Workbridge Associates,San Francisco,San Francisco,150000.0
+513,Business Intelligence/Data Scientist at VC Bay Area Start-up,Selby Jennings,San Francisco,San Francisco,160000.0
+533,Data Scientist,Workbridge Associates,San Francisco,San Francisco,165000.0
+535,Full-Stack Data Scientist,Mines.io,San Francisco,San Francisco,100000.0
+565,Senior Level Data Scientist,Workbridge Associates,San Francisco,San Francisco,142500.0
+566,Senior Data Scientist (Healthcare),Workbridge Associates,Berkeley,San Francisco,137500.0
+611,Mid-Level Data Scientist,Workbridge Associates,San Francisco,San Francisco,130000.0
+619,Research Technician II - Office of Research and Sponsored Pr...,San Francisco State University,San Francisco,San Francisco,21294.0
+662,Data Scientist,Smith Hanley Associates,San Francisco,San Francisco,150000.0
+757,"Data Analyst II (Department: Research, Assessment & Data)",Oakland Unified School District,Oakland,San Francisco,84649.0
+759,Data Scientist (Natural Language Processing),Corporate Labs Technology,Brisbane,San Francisco,145000.0
+762,Senior Data Scientist,Brilent,San Mateo,San Francisco,130000.0
+789,Senior Data Scientist (Econometrics),Workbridge Associates,San Francisco,San Francisco,130000.0
+802,Data Scientist (Machine Learning),Corporate Labs Technology,Brisbane,San Francisco,145000.0
+865,Senior Data Scientist,HSF Consulting,San Francisco,San Francisco,160000.0
+912,Senior Statistician,"Zachary Piper, LLC",Boston,Boston,127500.0
+941,Research Analyst III,Commonwealth of Massachusetts,Boston,Boston,64942.0
+954,Data Scientist,Apptopia Inc,Boston,Boston,100000.0
+956,Data Scientist,Jobspring Partners,Boston,Boston,100000.0
+967,Senior Data Scientist,Jobspring Partners,Boston,Boston,150000.0
+981,Principal Analyst\Asst. Director Data Science,Liberty Mutual,Boston,Boston,112500.0
+982,Data Scientist,Strategic Employment Partners,Waltham,Boston,90000.0
+997,Senior Data Scientist,Strategic Employment Partners,Cambridge,Boston,130000.0
+1040,Chief Data Scientist,Jobspring Partners,Boston,Boston,240000.0
+1044,Data Scientist,Analytic Recruiting,Boston,Boston,110000.0
+1087,Software Engineer - Machine Learning Team,NJF Search,Boston,Boston,200000.0
+1134,"Data Analysts, Data Scientists - Kendall Square startup",The Bivium Group,Cambridge,Boston,107500.0
+1143,SENIOR RESEARCH ANALYST,Boston Redevelopment Authority,Boston,Boston,63000.0
+1209,Research Data Analyst,Fanning Personnel,Boston,Boston,55000.0
+1218,Statistician,U.S. Department of Labor,Boston,Boston,50402.0
+1264,Lead Data Scientist,Strategic Employment Partners,Cambridge,Boston,150000.0
+1285,Biostatistician / Bioinformatician,"Human Capital Resource, LLC.",Boston,Boston,140000.0
+1309,"Data Scientist - healthcare, hacking coding skills",The Bivium Group,Cambridge,Boston,115000.0
+1337,Quantitative Analyst or Manager Decision Sciences,Analytic Recruiting,Boston,Boston,110000.0
+1417,Business Data Analyst,North shore Staffing Group,Dallas,Dallas,95000.0
+1418,Principal Data Scientist - Supply Chain,Analytic Recruiting,Dallas,Dallas,130000.0
+1431,React.js Developer - Machine Learning,Workbridge Associates,Addison,Dallas,112500.0
+1447,Data Analyst Market - Research Analyst,Steele Careers,Grapevine,Dallas,58000.0
+1520,VP - Predictive Modeling / Data Scientist,3coast,Dallas,Dallas,140000.0
+1535,Senior Manager Supply Chain Analytics,Analytic Recruiting,Dallas,Dallas,165000.0
+1537,Customer Intelligence Analyst,Aquent Staffing,Dallas,Dallas,75000.0
+1547,"Software Engineer, Java",Liquid Analytics,Dallas,Dallas,70000.0
+1552,"Software Engineer, Cloud",Liquid Analytics,Dallas,Dallas,80000.0
+1599,Sr. Risk Statistician,All-In Analytics,Dallas,Dallas,100000.0
+1602,Senior Research Analyst,Boy Scouts of America,Irving,Dallas,65000.0
+1658,"SR. SOFTWARE ENGINEER - JAVA, BIG DATA, MACHINE LEARNING","Riccione Resources, Inc.",Addison,Dallas,85000.0
+1809,Quantitative Analyst (Big Data Focus) at $10+ Billion Hedge...,Averity,Philadelphia,Philadelphia,250000.0
+1819,Senior Research and Data Analyst,PMHCC,Philadelphia,Philadelphia,58025.0
+1826,"Data Scientist- Python, R, SQL",Workbridge Associates,Philadelphia,Philadelphia,140000.0
+1832,Data Scientist (Entry Level),Juno Search Partners,Bristol,Philadelphia,40000.0
+1923,Data Architect / Data Scientist,"Aavalar Consulting, Inc.",Wilmington,Philadelphia,125000.0
+1924,Big Data Engineer | Remote | Mature Start-up,TEEMA Solutions Group,Philadelphia,Philadelphia,150000.0
+1937,Risk Data Scientist,All-In Analytics,Philadelphia,Philadelphia,110000.0
+1984,Lead Data Scientist,Jobspring Partners,Philadelphia,Philadelphia,150000.0
+2028,Senior DevOps Engineer | Remote | Mature Start-up,TEEMA Solutions Group,Philadelphia,Philadelphia,150000.0
+2048,Statistical Analyst,Analytic Recruiting,Philadelphia,Philadelphia,90000.0
+2186,PRODUCT DEVELOPMENT SCIENTIST - Flavors,International Flavors,Philadelphia,Philadelphia,60000.0
+2243,Principal Statistician,The McManness Group,Philadelphia,Philadelphia,110000.0
+2300,Data Scientist,Jobspring Partners,Marina del Rey,Los Angeles,110000.0
+2317,"RESEARCH ANALYST III, BEHAVIORAL SCIENCES",Los Angeles County Human Resources,Los Angeles,Los Angeles,77436.0
+2342,A.I. Psychologist/Research Assistant,AGI Innovations Inc,Redondo Beach,Los Angeles,34000.0
+2404,HUMAN RESOURCES ANALYST IV - Test Research,Los Angeles County Department of Human Resources,Los Angeles,Los Angeles,101654.0
+2410,"RESEARCH ANALYST III, BEHAVIORAL SCIENCES",Los Angeles County Department of Human Resources,Los Angeles,Los Angeles,77436.0
+2479,Clinical Laboratory Scientist (CLS),"Exact Staff, Inc.",Los Angeles,Los Angeles,90000.0
+2500,"MEDICAL TECHNOLOGIST, DATA SYSTEMS",Los Angeles County Department of Human Resources,Los Angeles,Los Angeles,86180.0
+2516,Principal Scientist - Food Science - Protein,Futuretech Staffing,Torrance,Los Angeles,150000.0
+2598,Data Scientist,Lawrence Harvey,Los Angeles,Los Angeles,95000.0
+2646,Scientist - Tea,Futuretech Staffing,Torrance,Los Angeles,110000.0
+2651,Realty Specialist,Department of the Army,Los Angeles,Los Angeles,51392.0
+2703,Machine Learning - Big Data,PeopleScout,Raleigh-Durham,Raleigh,130000.0
+2710,Data Scientist,Piper Enterprise Solutions,Research Triangle Park,Raleigh,110000.0
+2733,Statistical Programmer,"Zachary Piper, LLC",Durham,Raleigh,70000.0
+2735,Associate Scientist,"Zachary Piper, LLC",Durham,Raleigh,46000.0
+2751,Associate Scientist,Piper Clinical Solutions,Durham,Raleigh,46000.0
+2755,Public Health Zika Virus Specialist,State of North Carolina,Wake County,Raleigh,76215.0
+2756,Public Health Zika Virus Specialist,North Carolina Office of State Human Resources,Wake County,Raleigh,76215.0
+2792,"Sr. Deep Learning Data Scientist, Mobile",All-In Analytics,Research Triangle Park,Raleigh,150000.0
+2794,Machine Learning Econometrician,All-In Analytics,Research Triangle Park,Raleigh,150000.0
+2829,Teaching Technician,North Carolina State University,Raleigh,Raleigh,58442.0
+2869,Sr. Pricing Data Scientist,All-In Analytics,Research Triangle Park,Raleigh,137500.0
+2890,Executive Assistant - DPET,University of North Carolina,Chapel Hill,Raleigh,49148.0
+3156,Sr Data Scientist,"eHire, LLC",Atlanta,Atlanta,150000.0
+3220,Health Scientist,Centers for Disease Control and Prevention,Atlanta,Atlanta,79247.0
+3227,Data Scientist / SQL,firstPRO,Atlanta,Atlanta,100000.0
+3230,Interdisciplinary Health Scientist/ Behavioral Scientist,Centers for Disease Control and Prevention,Atlanta,Atlanta,94531.0
+3245,Market Research Analyst,"Wismettac Asian Foods, Inc.",Norcross,Atlanta,50794.0
+3257,Statistical Data Analyst,Ga. Dept. of Admin. Services,Atlanta,Atlanta,41000.0
+3259,Supervisory Health Scientist,Centers for Disease Control and Prevention,Atlanta,Atlanta,141158.0
+3275,"Asc Dir, Research Projects",Emory University,Atlanta,Atlanta,56200.0
+3279,C++ Developer / Machine Learning,firstPRO,Atlanta,Atlanta,120000.0
+3306,Statistical Credit Risk Modeler | Top Performing Investment...,Selby Jennings,Atlanta,Atlanta,212500.0
+3316,Associate Research Analyst,CSTE,Atlanta,Atlanta,54182.0
+3317,Sr. Data Scientist,CHASE Professionals,Duluth,Atlanta,110000.0
+3350,Microbiologist,Centers for Disease Control and Prevention,Atlanta,Atlanta,101553.0
+3383,Director of Data,Velossent,Atlanta,Atlanta,160000.0
+3414,Research Statistician - Payment Cards,Smith Hanley Associates,Atlanta,Atlanta,87500.0
+3438,Real Estate / Title Research Analyst,JVI,Roswell,Atlanta,55000.0
+3482,Audit Snr (Banking) - Data Analysis 60K-80K,Synergy Search Group,Atlanta,Atlanta,80000.0
+3527,DevOps Engineer,Principle Solutions Group,Atlanta,Atlanta,80000.0
+3551,Marketing Statistician,Smith Hanley Associates,Atlanta,Atlanta,87500.0
+3556,Marketing Statistician,Smith Hanley Associates,Atlanta,Atlanta,87500.0
+3558,School Business Manager and Human Resources (HR),Amana Academy Charter School,Atlanta,Atlanta,34999.0
+3619,Data Scientist,Prime Team Partners,Seattle,Seattle,150000.0
+3620,Digital Data Scientist,All-In Analytics,Seattle,Seattle,190000.0
+3682,Data Scientist (Software Engineering),Pullskill Technologies,Seattle,Seattle,120000.0
+3692,"Sr. Data Scientist, Compensation Analytics",All-In Analytics,Seattle,Seattle,120000.0
+3738,Data Science Engineer,Harvey Nash USA,Seattle,Seattle,135000.0
+3758,Software Development Engineer (Machine Learning),"Rakuten, Inc.",Seattle,Seattle,140000.0
+3820,Document Control Manager,"Job Brokers, Inc.",Bothell,Seattle,80000.0
+3834,BI/Data Architect,Seattle Pacific University,Seattle,Seattle,82500.0
+3926,Senior Business Intelligence Data Scientist,All-In Analytics,Seattle,Seattle,190000.0
+3970,Postdoc / Research Scientist,University of Washington School of Medicine,Seattle,Seattle,40000.0
+4022,Data Scientist,All-In Analytics,Seattle,Seattle,150000.0
+4052,Data Scientist - Machine Learning Specialist,Empiric Solutions,New York,New York,250000.0
+4096,Data Scientist,Oliver James Associates,New York,New York,185000.0
+4105,Machine Learning Data Scientist,All-In Analytics,New York,New York,132500.0
+4113,AVP/Quantitative Analyst,AllianceBernstein,New York,New York,122500.0
+4149,Sr. Machine Learning Data Scientist,Wade & Wendy,New York,New York,130000.0
+4193,Lead/Principal Data Scientist,Empiric Solutions,New York,New York,165000.0
+4217,Data Scientist - Advertising Analytics,Empiric Solutions,New York,New York,130000.0
+4223,Data Scientist - Health+Care,Empiric Solutions,New York,New York,135000.0
+4232,Data Scientist,Selby Jennings,New York,New York,150000.0
+4251,Research Scientist,SUNY ESF,Albany,New York,50000.0
+4277,Assistant Research Scientist,"Research Foundation for Mental Hygiene, Inc.",New York,New York,45488.0
+4283,Data Scientist,Technical Source,Armonk,New York,200000.0
+4296,Senior Data Scientist ($150k),Averity,New York,New York,150000.0
+4300,Quantitative Analyst for Global Quant Fund,Averity,New York,New York,225000.0
+4301,Data Scientist,TalentHub Worldwide,New York,New York,105000.0
+4308,Data Scientist (Lead),Smart Host,New York,New York,75000.0
+4314,"Data Analyst, Bureau of Environmental Sciences and Engineeri...",DEPT OF HEALTH/MENTAL HYGIENE,Manhattan,New York,64055.0
+4329,Data Scientist,Datacom Technology Group,New York,New York,200000.0
+4341,Data Scientist,Smith Hanley Associates,New York,New York,132500.0
+4343,"CITY RESEARCH SCIENTIST, LEVEL II",POLICE DEPARTMENT,New York,New York,76941.0
+4361,Data Scientist,New York State Senate,Jefferson Valley-Yorktown,New York,50000.0
+4401,SENIOR RESEARCH STAFF ASSISTANT,Columbia University,New York,New York,45000.0
+4415,Lead Data Scientist,Empiric Solutions,New York,New York,150000.0
+4432,Predictive Risk Analyst,City of New York,New York,New York,76941.0
+4436,Senior Data Scientist,Selby Jennings,New York,New York,170000.0
+4442,"Research Technician III, Grade 21, Job 735195","Research Foundation for Mental Hygiene, Inc.",New York,New York,59250.0
+4449,Quantitative Analyst,Emerald Resource Group,New York,New York,150000.0
+4451,Analytics Senior Director,Analytic Recruiting,New York,New York,195000.0
+4457,Big Data Engineer/ ETL Developer for a Global Education Prov...,Averity,New York,New York,95000.0
+4458,Quantitative Analyst (Big Data Focus) at $10+ Billion Hedge...,Averity,New York,New York,250000.0
+4472,Quantitative Analyst (Fundamental Quant Equities) - Hedge Fu...,Datacom Technology Group,New York,New York,200000.0
+4480,Senior Data Analyst,Helix Sleep,New York,New York,100000.0
+4495,"Director of Research, Evaluation and Reporting, Health Acces...",NYC Dept. of Health and Mental Hygiene,New York,New York,97866.0
+4503,Research Analyst,The Taylor-Wilks Group,Baltimore,Baltimore,30000.0
+4505,Sr. Institutional Research Analyst,Johns Hopkins University,Baltimore,Baltimore,58175.0
+4506,Machine Learning Scientist/Architect - TS/SCI with Poly requ...,"Resolute Technologies, LLC",Hanover,Baltimore,190000.0
+4509,Research Data Analyst,Johns Hopkins University,Baltimore,Baltimore,50112.0
+4519,Research Specialist,Johns Hopkins University,Baltimore,Baltimore,43123.0
+4520,Research Service Analyst,Johns Hopkins University,Baltimore,Baltimore,48201.0
+4524,ADMINISTRATOR II *RE-OPENED* (EMS Data Analysis Program Mana...,State of Maryland,Baltimore,Baltimore,60934.0
+4540,Sr. Program Officer,Johns Hopkins University,Baltimore,Baltimore,78483.0
+4548,Research Analyst - Learning Outcomes Assessment,Howard Community College,Columbia,Baltimore,46332.0
+4555,Chief Data Officer,ATHENA Consulting,Baltimore,Baltimore,107500.0
+4593,Annual Giving Officer,Johns Hopkins University,Baltimore,Baltimore,65643.0
+4595,EPIDEMIOLOGIST I,State of Maryland,Baltimore,Baltimore,50508.0
+4596,Research Analyst,Johns Hopkins University,Baltimore,Baltimore,67373.0
+4615,Lead Data Scientist,Net-Consultants,Baltimore,Baltimore,140000.0
+4628,Project Administrator,Johns Hopkins University,Baltimore,Baltimore,78483.0
+4637,Pathways Recent Graduate Computer Scientist,Department of Defense,Fort Meade,Baltimore,54351.0
+4653,Statistical Process Control Analyst.,Seneca Resources,Columbia,Baltimore,80000.0
+4668,Data Scientist/Java Analytic Developer - DOD,Deployment Staffing,Fort Meade,Baltimore,100000.0
+4697,Senior Development Research Analyst for Principal Gifts,Johns Hopkins University,Baltimore,Baltimore,48201.0
+4702,Sr. Research Program Coordinator,Johns Hopkins University,Baltimore,Baltimore,43623.0
+4730,Sr. Research Service Analyst,Johns Hopkins University,Baltimore,Baltimore,57329.0
+4742,Research Program Coordinator,Johns Hopkins University,Baltimore,Baltimore,35108.0
+4745,INSPECTOR/INVESTIGATOR,Department of the Navy,Fort Meade,Baltimore,105969.0
+4749,CO Assistant Administrator - Clinical,Johns Hopkins University,Baltimore,Baltimore,91140.0
+4806,Environmental Scientist,WSSC,Laurel,Baltimore,93055.0
+4831,Mathematicians,National Security Agency,Fort George G Meade,Baltimore,75091.0
+4867,Mathematical Statisticians,National Security Agency,Fort George G Meade,Baltimore,75091.0
+4883,"Research Astrophysicist, AST, Stellar, Galactic, and Extra G...",National Aeronautics and Space Administration,Greenbelt,Baltimore,116850.0
+4895,Earned Value Management & Cost Research Analyst,National Security Agency,Fort George G Meade,Baltimore,75091.0
+4896,Earned Value Management & Cost Research Analyst - Experience...,National Security Agency,Fort George G Meade,Baltimore,116850.0
+4910,Assist with coordinating pre and post award sponsored activi...,Johns Hopkins University,Baltimore,Baltimore,48201.0
+4925,Assist with coordinating pre and post award sponsored activi...,Johns Hopkins University,Baltimore,Baltimore,48201.0
+4940,Assist with coordinating pre and post award sponsored activi...,Johns Hopkins University,Baltimore,Baltimore,48201.0
